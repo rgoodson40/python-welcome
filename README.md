@@ -1,1 +1,1 @@
-This is a template to create a Python app
+Basic welcome app written in Python
