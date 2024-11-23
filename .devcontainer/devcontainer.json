@@ -1,5 +1,5 @@
 {
-    "name": "template-python",
+    "name": "python-welcome",
     "dockerComposeFile": ["docker-compose.yml"],
     "service": "app",
     "workspaceFolder": "/workspace"
